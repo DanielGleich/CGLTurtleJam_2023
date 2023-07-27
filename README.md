@@ -1,16 +1,16 @@
-###Credits
+# Credits
 
-##Programming: 
+## Programming: 
 Ahmet Hakan Koç (@hakodev)
-Daniel Gleich
+<br>Daniel Gleich
 
-##Level Design:
+## Level Design:
 Dominic Koch
-Alyx Feigel (@naephys)
+<br>Alyx Feigel (@naephys)
 
-##Game Art: 
+## Game Art: 
 Linda Hahnemann (https://www.artstation.com/luminouss)
 
-##Sounds:
+## Sounds:
 Dominic Koch
 
